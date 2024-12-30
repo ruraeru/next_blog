@@ -1,4 +1,4 @@
-import { getAllPostCount, getCategoryDetailList, getSortedPostList } from '@/lib/post';
+import { getSortedPostList } from '@/lib/post';
 import PostCard from './PostCard';
 
 interface PostListProps {

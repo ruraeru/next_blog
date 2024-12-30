@@ -1,6 +1,5 @@
 import type { Metadata } from 'next';
 
-import { Toaster } from '@/components/ui/toaster';
 import { baseDomain, blogDesc, blogName, blogThumbnailURL } from '@/config/const';
 import "@/config/global.css"
 import { ThemeProvider } from '@/layout/theme/Provider';

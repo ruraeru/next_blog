@@ -5,8 +5,6 @@ const navList = [
     { name: 'About', href: '/about' }
 ];
 
-const localePathList = ['/about'];
-
 export function Header() {
     return (
         <nav className="fixed">
