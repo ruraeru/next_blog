@@ -1,4 +1,4 @@
-import PostListPage from '@/components/post_list/PostListPage';
+import PostListPage from "@/components/post_list/PostListPage";
 
 const Blog = async () => {
     return <PostListPage />;
